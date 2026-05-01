@@ -21,6 +21,8 @@ Advanced reconnaissance automation tool for bug bounty hunters and penetration t
 ```bash
 git clone git@github.com:birechamar/ReconCLI.git
 cd ReconCLI
+sudo chmod +x setup.sh
+./setup.sh
 ```
 
 ### Required Tools
